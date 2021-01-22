@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/NeradoOne/quoteMachine.git/static/css/main.beac27b9.chunk.css",
-    "main.js": "/NeradoOne/quoteMachine.git/static/js/main.802bcc8c.chunk.js",
-    "main.js.map": "/NeradoOne/quoteMachine.git/static/js/main.802bcc8c.chunk.js.map",
-    "runtime-main.js": "/NeradoOne/quoteMachine.git/static/js/runtime-main.66565a9e.js",
-    "runtime-main.js.map": "/NeradoOne/quoteMachine.git/static/js/runtime-main.66565a9e.js.map",
-    "static/js/2.a43820e1.chunk.js": "/NeradoOne/quoteMachine.git/static/js/2.a43820e1.chunk.js",
-    "static/js/2.a43820e1.chunk.js.map": "/NeradoOne/quoteMachine.git/static/js/2.a43820e1.chunk.js.map",
-    "static/js/3.c6267284.chunk.js": "/NeradoOne/quoteMachine.git/static/js/3.c6267284.chunk.js",
-    "static/js/3.c6267284.chunk.js.map": "/NeradoOne/quoteMachine.git/static/js/3.c6267284.chunk.js.map",
-    "index.html": "/NeradoOne/quoteMachine.git/index.html",
-    "static/css/main.beac27b9.chunk.css.map": "/NeradoOne/quoteMachine.git/static/css/main.beac27b9.chunk.css.map",
-    "static/js/2.a43820e1.chunk.js.LICENSE.txt": "/NeradoOne/quoteMachine.git/static/js/2.a43820e1.chunk.js.LICENSE.txt"
+    "main.css": "/quoteMachine/static/css/main.beac27b9.chunk.css",
+    "main.js": "/quoteMachine/static/js/main.802bcc8c.chunk.js",
+    "main.js.map": "/quoteMachine/static/js/main.802bcc8c.chunk.js.map",
+    "runtime-main.js": "/quoteMachine/static/js/runtime-main.a3a2ee69.js",
+    "runtime-main.js.map": "/quoteMachine/static/js/runtime-main.a3a2ee69.js.map",
+    "static/js/2.a43820e1.chunk.js": "/quoteMachine/static/js/2.a43820e1.chunk.js",
+    "static/js/2.a43820e1.chunk.js.map": "/quoteMachine/static/js/2.a43820e1.chunk.js.map",
+    "static/js/3.c6267284.chunk.js": "/quoteMachine/static/js/3.c6267284.chunk.js",
+    "static/js/3.c6267284.chunk.js.map": "/quoteMachine/static/js/3.c6267284.chunk.js.map",
+    "index.html": "/quoteMachine/index.html",
+    "static/css/main.beac27b9.chunk.css.map": "/quoteMachine/static/css/main.beac27b9.chunk.css.map",
+    "static/js/2.a43820e1.chunk.js.LICENSE.txt": "/quoteMachine/static/js/2.a43820e1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.66565a9e.js",
+    "static/js/runtime-main.a3a2ee69.js",
     "static/js/2.a43820e1.chunk.js",
     "static/css/main.beac27b9.chunk.css",
     "static/js/main.802bcc8c.chunk.js"
