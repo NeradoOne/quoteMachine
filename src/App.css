@@ -85,6 +85,7 @@ button{
   position: relative;
   margin: 0 8px;
 }
+
   .btn::after {
     content: '';
     background-color: rgba(107, 107, 107, .842);
@@ -103,7 +104,7 @@ button{
     left:0;
     width: 100%;
   }
-  .btn:focus {
+  button:focus {
     outline: none;
     box-shadow: 0 0 16px rgba(107, 107, 107, .842);
   }
